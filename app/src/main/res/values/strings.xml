@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Dictionary</string>
+    <string name="title_home">Words</string>
+    <string name="title_dashboard">Recent</string>
+    <string name="title_notifications">Favorites</string>
+    <string name="install_now">Install Now</string>
+    <string name="title_activity_word_detail">WordDetailActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_here">Search here</string>
+    <string name="search">Search</string>
+
+</resources>
